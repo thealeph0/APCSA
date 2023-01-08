@@ -1,7 +1,7 @@
 public class DebugOne2
 {
    /* This program displays some output
-   public static void(String[] args)
+   public static void(String args)
    {
       System.out.println("Java programming is fun.");
       System.out.println("Getting a program to work");
