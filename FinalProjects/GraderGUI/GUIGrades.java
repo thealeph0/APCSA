@@ -15,7 +15,8 @@ public class Grades
 		String origLetter = JOptionPane.showInputDialog("Please enter Letter Grade:");
     
 		//include string for origNumeric
-		
+
+		//constructor of new Grade object from Grade.java file
 		Grade userGrades = new Grade(origLetter, Double.parseDouble(origNumeric));
     
     //displays the final result
